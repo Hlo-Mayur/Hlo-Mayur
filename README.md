@@ -14,7 +14,7 @@ Every year I push myself to learn more — from hardware to AI — and I love cr
 
 . 👥 Looking to collaborate on Drones & Automation
 
-📫 Contact Me (updated as requested)
+📫 Contact Me 
 <p align="left"> <a href="mailto:mayurswany06@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" height="40"/> </a> <a href="https://www.linkedin.com/in/k-mayur-swamy-329422365/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" height="40"/> </a> <a href="https://www.github.com/Hlo-Mayur" target="_blank"> <img src="https://skillicons.dev/icons?i=github" height="40"/> </a> </p>
 🛠️ Skills & Tools
 <p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,python,kotlin,js,ts,html,git,flask,mysql,vscode,linux,ubuntu,raspberrypi,arduino,blender" /> </p>
