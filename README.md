@@ -1,6 +1,5 @@
-👋 Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/>
-K MAYUR SWAMY
-Embedded Systems, Robotics & AI Enthusiast
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is K MAYUR SWAMY
+====================================================================================================================================== Embedded Systems, Robotics & AI Enthusiast ------------------------------------------
 🧠 About Me
 
 I started with simple Arduino and electronic circuits, slowly building my fundamentals.
